@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Alperen &nbsp✨
+# 💫 About Me: Hi 👋, I'm Alperen  ✨
 Arduino, Raspberry pi, stm kartları ile proje geliştiriyorum.
 <img  align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="28%"/>
 
