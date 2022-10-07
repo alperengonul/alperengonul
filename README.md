@@ -1,5 +1,7 @@
 # 💫 About Me: Hi 👋, I'm Alperen  ✨
-Arduino, Raspberry pi, stm kartları ile proje geliştiriyorum.
+
+<p>  I am developing a project with Arduino, Raspberry pi, stm cards. </p>
+
 <img  align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="28%"/>
 
 <h3 align="center">React Developer</h3>
