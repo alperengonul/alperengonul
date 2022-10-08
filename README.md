@@ -1,10 +1,7 @@
 #                                     💫 Hi 👋, I'm Alperen  ✨
 
 <img  align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="28%"/>
-<p>  I am developing a project with Arduino, Raspberry pi, stm cards. </p>
-
-
-
+<p> 👨🏻‍💻 I am developing a project with Arduino, Raspberry pi, stm cards. </p>
 
 <p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
 
