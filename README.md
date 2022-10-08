@@ -4,7 +4,7 @@
 <p>  I am developing a project with Arduino, Raspberry pi, stm cards. </p>
 
 
-<h3 align="center">React Developer</h3>
+
 
 <p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
 
