@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Alperen  ✨
+#                                     💫 Hi 👋, I'm Alperen  ✨
 
 <img  align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="28%"/>
 <p>  I am developing a project with Arduino, Raspberry pi, stm cards. </p>
