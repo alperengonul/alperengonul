@@ -11,7 +11,7 @@
 - Bionluk: [FPR Bilişim](https://bionluk.com/fprbilisim)
 
 <h2 align="left" id="macropower-tech">What's FPR Informatics</h2>
-<p> The 'Bionluk' internet group was founded by our group of 3 friends </p>
+<p> The 'Bionluk' internet group was founded by our group of 2 friends </p>
 <br />
 
 <h2 align="left" id="macropower-tech">CV - Resume</h2>
